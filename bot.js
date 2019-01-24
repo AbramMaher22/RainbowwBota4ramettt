@@ -22,7 +22,7 @@ disco.on("message", message => {
     });
   }
 
-  if(message.content.startsWith(prefix + "discoyubaslat")) {
+  if(message.content.startsWith(prefix + "start")) {
     if(allowedUsers.includes(message.author.id)) {
     setInterval(() => { discoRole(); }, config.ms);
     message.channel.send("```css\nDisco...```");
