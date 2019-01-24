@@ -6,7 +6,7 @@ const allowedUsers = config.allowedUsers;
 const roles = config.roleToDisco;
 
 disco.on("ready", () => {
-    disco.user.setPresence({ game: { name: `Disco Rolu! Ben Y.G.V.#2993 Tarafindan Hazirlandim` }, type: 0 });
+    disco.user.setPresence({ game: { name: `Abram Top Yalla` }, type: 0 });
     console.log("Disco Rolu Aktif.");
 });
 
