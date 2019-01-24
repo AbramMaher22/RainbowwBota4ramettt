@@ -2,6 +2,6 @@
   "token" : "TOKEN",
   "ms" : 200,
   "roleToDisco" : ["ROL1", "AYNI ROLUN ADI"],
-  "prefix" : "PREFİX",
+  "prefix" : "d!",
   "allowedUsers" : ["İD 1", "İD 2"]
 }
