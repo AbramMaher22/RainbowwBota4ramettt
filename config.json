@@ -1,0 +1,7 @@
+{
+  "token" : "TOKEN",
+  "ms" : 200,
+  "roleToDisco" : ["ROL1", "AYNI ROLUN ADI"],
+  "prefix" : "PREFİX",
+  "allowedUsers" : ["İD 1", "İD 2"]
+}
