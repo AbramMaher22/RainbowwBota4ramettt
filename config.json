@@ -1,7 +1,7 @@
 {
   "token" : "TOKEN",
   "ms" : 200,
-  "roleToDisco" : ["ROL1", "AYNI ROLUN ADI"],
+  "roleToDisco" : ["Discko", "AYNI ROLUN ADI"],
   "prefix" : "d!",
-  "allowedUsers" : ["İD 1", "İD 2"]
+  "allowedUsers" : ["441358437025316864", "İD 2"]
 }
